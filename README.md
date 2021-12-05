@@ -3,8 +3,8 @@ Minimise all windows applications launched during startup.  Works on Windows 11.
 Depending on your startup time, you may need to adjust TIMER_VAL in config.json; currently it's set to 10 seconds.
 If you want to bundle this into an executable, do the following:
 
-Firstly install Python 3.  I used Python 3.9.7 but I strongly suspect earlier versions as long as they are at least a fairly recent version of Python 3 would be fine.
-Install virtualenv
+Firstly install Python 3 from python.org.  I used Python 3.9.7 but I strongly suspect earlier versions as long as they are at least a fairly recent version of Python 3 would be fine.
+Install virtualenv (googleable).
 Clone the repo.
 Navigate to the repo directory.
 run 'virtualenv venv'
